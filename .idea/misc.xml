@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Admin/Desktop/cpl06_android_mock_3/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/Desktop/cpl06_android_mock_3/app/src/main/res/layout/fragment_cart.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Admin/Desktop/cpl06_android_mock_3/app/src/main/res/layout/fragment_category.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Admin/Desktop/cpl06_android_mock_3/app/src/main/res/layout/fragment_home.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Admin/Desktop/cpl06_android_mock_3/app/src/main/res/layout/fragment_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/Desktop/cpl06_android_mock_3/app/src/main/res/layout/fragment_person_detail.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/Desktop/cpl06_android_mock_3/app/src/main/res/layout/fragment_register.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/Desktop/cpl06_android_mock_3/app/src/main/res/layout/home_demo.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/Desktop/cpl06_android_mock_3/app/src/main/res/layout/item_book.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/Desktop/cpl06_android_mock_3/app/src/main/res/layout/item_categories.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/Desktop/cpl06_android_mock_3/app/src/main/res/layout/item_person.xml" value="0.36666666666666664" />
+<<<<<<< HEAD
+        <entry key="..\:/Users/Admin/Desktop/cpl06_android_mock_3/app/src/main/res/layout/item_product.xml" value="0.21784420289855072" />
+=======
+        <entry key="..\:/Users/Admin/Desktop/cpl06_android_mock_3/app/src/main/res/layout/item_product.xml" value="0.22780797101449277" />
+>>>>>>> 7659c5964a8f198e0ef58f4f16b017ca3c53d4a4
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
